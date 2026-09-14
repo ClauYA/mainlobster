@@ -1,15 +1,14 @@
-**Slack Tide Lobster Shack
-**
+# Slack Tide Lobster Shack
+
 A responsive landing page for a fictional Maine lobster restaurant, featuring menu display, dining guides, and location information.
 
-**
-About**
+## About
 
 Slack Tide Lobster Shack is a charming waterfront restaurant in Harpswell, Maine, serving fresh lobster since 1979. This website showcases their menu, provides a guide on how to eat a whole lobster, and helps customers find the wharf.
 
 The site features a warm, coastal aesthetic with clean typography and intuitive navigation.
 
-**Features**
+## Features
 
 - **Responsive Design**: Mobile-first layout with hamburger menu
 - **Menu Display**: Organized sections for seafood and sides with market pricing
@@ -19,8 +18,8 @@ The site features a warm, coastal aesthetic with clean typography and intuitive 
 - **Accessible**: Semantic HTML and proper heading hierarchy
 - **No Dependencies**: Pure HTML, CSS, and vanilla JavaScript
 
-**Technologies
-**
+## Technologies
+
 - HTML5
 - CSS3 (Flexbox, Grid)
 - Vanilla JavaScript
@@ -28,6 +27,6 @@ The site features a warm, coastal aesthetic with clean typography and intuitive 
 - Material Symbols Icons
 - Normalize.css
 
-**Live Demo**
+## Live Demo
 
 [View Live Site](https://clauya.github.io/Maine-Lobster/)
